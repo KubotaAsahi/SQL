@@ -1,0 +1,14 @@
+mysql> CREATE DATABASE item;
+Query OK, 1 row affected (0.00 sec)
+mysql> USE item;
+Database changed
+mysql> CREATE TABLE item(category_id int,category_name varchar(10));
+Query OK, 0 rows affected (0.01 sec)
+mysql> INSERT INTO item VALUES(1,'‰Æ‹ï');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO item VALUES(2,'H•i');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO item VALUES(3,'–{');
+Query OK, 1 row affected (0.00 sec)
