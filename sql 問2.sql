@@ -1,0 +1,1 @@
+ CREATE TABLE item(item_id int,item_name varchar,Item_price int,category_id int);
